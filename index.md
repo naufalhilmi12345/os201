@@ -9,6 +9,6 @@
 
 * Saya senang mempelajari OS
 
-* [URL Berguna](URL/)
+* [URL Berguna](URLs/)
 
 -- Jolan Tru
