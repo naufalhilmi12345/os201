@@ -4,17 +4,11 @@ Halo semua, Jolan Tru!
 
 ### Profile
 
-Halaman ini adalah profil singkat tentang saya!
+Nama saya Naufal Hilmi Irfandi
 
-```markdown
+Saya kuliah di Fasilkom
 
-* Nama saya Naufal Hilmi Irfandi
-
-* Saya kuliah di Fasilkom
-
-* Saya senang mempelajari OS
-
-```
+Saya senang mempelajari OS
 
 Untuk link berguna tentang OS: [URL Berguna](URLs/)
 
