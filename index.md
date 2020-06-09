@@ -20,7 +20,7 @@ Karena ini merupakan UAS dari mata kuliah Sistem Operasi
 
 ### Mau tau lebih mengenai Sistem Operasi?
 
-[URLs Mengenai Sistem Operasi](URLs/)
+Klik disini: [URLs Mengenai Sistem Operasi](URLs/)
 
 -- Naufal Hilmi Irfandi 1806186673 OS-B --
 
