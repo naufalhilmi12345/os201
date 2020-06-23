@@ -1,22 +1,22 @@
 Script started on Mon 08 Jun 2020 08:47:57 PM WIB
-naufal.hilmi@badak:~/UAS$ PS1="$ "
-$
+]0;naufal.hilmi@badak: ~/UASnaufal.hilmi@badak:~/UAS$ PS1="$ "
+$ 
 $ echo $GitHubUser
 naufalhilmi12345
-$
+$ 
 $ echo $PSTAMP
 
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
-$
+$ 
 $ eval $PSTAMP
-200608-204805-bc44-UAS/>
+200608-204805-bc44-UAS/> 
 $ PS1="\$(eval \$PSTAMP)"
 
 echo -e $CEKSAYA
 
 echo -e $CEKSEBELA1
 
-200608-204810-c137-UAS/>
+200608-204810-c137-UAS/> 
 echo -e $CEKSEBELA200608-204810-c137-UAS/> echo -e $CEKSAYA
 naufalhilmi12345 ZCZCSCRIPTSTART 200603-102728 naufalhilmi12345
 naufalhilmi12345 naufalhilmi12345 200603-102728-227d-naufal.hilmi/ 200603-102728 SEQOK SUMOK 227d1508
@@ -24,7 +24,7 @@ naufalhilmi12345 naufalhilmi12345 200603-102730-760d-naufal.hilmi/ 200603-102730
 naufalhilmi12345 naufalhilmi12345 200603-102752-cbc6-naufal.hilmi/ 200603-102752 SEQOK SUMOK cbc6e53d
 naufalhilmi12345 naufalhilmi12345 200603-102812-8f22-naufal.hilmi/ 200603-102812 SEQOK SUMOK 8f22cbe1
 naufalhilmi12345 ZCZCSCRIPTSTOP 200603-102927 SEQOK
-2200608-204810-c137-UAS/>
+2200608-204810-c137-UAS/> 
 200608-204810-c137-UAS/> echo -e $CEKSEBELA1
 naufalhilmi12345 ZCZCSCRIPTSTART 200602-161830 naufal-prakoso
 naufalhilmi12345 naufal-prakoso 200602-161904-af47-naufal.thirafy/ 200602-161904 SEQOK SUMOK af47053a
@@ -32,7 +32,7 @@ naufalhilmi12345 naufal-prakoso 200602-161910-7559-naufal.thirafy/ 200602-161910
 naufalhilmi12345 naufal-prakoso 200602-161916-fe3f-naufal.thirafy/ 200602-161916 SEQOK SUMOK fe3f15f8
 naufalhilmi12345 naufal-prakoso 200602-161922-c7e2-naufal.thirafy/ 200602-161922 SEQOK SUMOK c7e27feb
 naufalhilmi12345 ZCZCSCRIPTSTOP 200602-161928 SEQOK
-200608-204810-c137-UAS/>
+200608-204810-c137-UAS/> 
 200608-204810-c137-UAS/> echo -e $CEKSEBELA2
 naufalhilmi12345 ZCZCSCRIPTSTART 200530-150226 naurakhansa
 naufalhilmi12345 naurakhansa 200530-150256-f39b-naura.khansa/ 200530-150256 SEQOK SUMOK f39b1b23
